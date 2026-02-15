@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Arcade
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Menu()
+comment3.params=
+comment3.target=void\ printScoreBoard()
+comment4.params=
+comment4.target=Player\ choosePlayer()
+comment5.params=
+comment5.target=void\ processPayments()
+comment6.params=
+comment6.target=void\ setPlayers()
+comment7.params=
+comment7.target=java.lang.String\ welcomeMessage()
+numComments=8

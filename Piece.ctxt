@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Piece
+comment1.params=color\ initSq\ img_file
+comment1.target=Piece(int,\ Square,\ java.lang.String)
+comment10.params=b
+comment10.target=java.util.List\ getLegalMoves(Board)
+comment2.params=fin
+comment2.target=boolean\ move(Square)
+comment3.params=
+comment3.target=Square\ getPosition()
+comment4.params=sq
+comment4.target=void\ setPosition(Square)
+comment5.params=
+comment5.target=int\ getColor()
+comment6.params=
+comment6.target=java.awt.Image\ getImage()
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+comment8.params=board\ x\ y
+comment8.target=int[]\ getLinearOccupations(Square[][],\ int,\ int)
+comment9.params=board\ x\ y
+comment9.target=java.util.List\ getDiagonalOccupations(Square[][],\ int,\ int)
+numComments=11

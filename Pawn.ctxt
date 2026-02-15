@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pawn
+comment1.params=color\ initSq\ img_file
+comment1.target=Pawn(int,\ Square,\ java.lang.String)
+comment2.params=fin
+comment2.target=boolean\ move(Square)
+comment3.params=b
+comment3.target=java.util.List\ getLegalMoves(Board)
+numComments=4

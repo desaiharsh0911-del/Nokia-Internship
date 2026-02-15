@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=b\ c\ xNum\ yNum
+comment1.target=Square(Board,\ int,\ int,\ int)
+comment10.params=p
+comment10.target=void\ capture(Piece)
+comment11.params=g
+comment11.target=void\ paintComponent(java.awt.Graphics)
+comment12.params=
+comment12.target=int\ hashCode()
+comment2.params=
+comment2.target=int\ getColor()
+comment3.params=
+comment3.target=Piece\ getOccupyingPiece()
+comment4.params=
+comment4.target=boolean\ isOccupied()
+comment5.params=
+comment5.target=int\ getXNum()
+comment6.params=
+comment6.target=int\ getYNum()
+comment7.params=v
+comment7.target=void\ setDisplay(boolean)
+comment8.params=p
+comment8.target=void\ put(Piece)
+comment9.params=
+comment9.target=Piece\ removePiece()
+numComments=13

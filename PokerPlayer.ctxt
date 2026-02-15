@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PokerPlayer
+comment1.params=p\ frame
+comment1.target=PokerPlayer(byte,\ javax.swing.JFrame)
+comment2.params=alDeck
+comment2.target=void\ drawCards(java.util.ArrayList)
+comment3.params=alCommunityCards
+comment3.target=byte\ handRanking(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ setupPlayerGUI()
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Payment
+comment0.text=\r\n\ Description\:\ a\ class\ that\ holds\ an\ object\ payment\ that\ stores\ the\ information\ for\ the\ card\ they're\ paying\ with,\ \r\n\ and\ has\ methods\ to\ check\ and\ verify\ their\ information\ -\ each\ player\ object\ will\ have\ a\ copy\ of\ this\r\n\r\n\ @author\ (Harsh\ Desai)\r\n\ @version\ (Dec\ 5\ -\ 15th,\ 2025)\r\n
+comment1.params=cn\ e\ cvv
+comment1.target=Payment(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Payment()
+comment3.params=
+comment3.target=boolean\ isValid()
+comment4.params=cn
+comment4.target=void\ setCardNum(java.lang.String)
+comment5.params=e
+comment5.target=void\ setExpiry(java.lang.String)
+comment6.params=cvv
+comment6.target=void\ setCVV(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCardNum()
+comment8.params=
+comment8.target=java.lang.String\ getExpiry()
+comment9.params=
+comment9.target=java.lang.String\ getCVV()
+numComments=10

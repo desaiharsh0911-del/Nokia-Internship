@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Description\:\ a\ class\ for\ player\ objects\ to\ add\ to\ the\ arraylist\ of\ all\ the\ players\ that\ includes\ their\ name,\ ticket\ balance,\ and\ payment(its\ own\ \r\n\ object)\r\n\r\n\ @author\ (Harsh\ Desai)\r\n\ @version\ (Dec\ 5\ -\ 15th,\ 2025)\r\n
+comment1.params=n
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Payment\ getPayment()
+comment4.params=
+comment4.target=int\ getTickets()
+comment5.params=amount
+comment5.target=void\ addTickets(int)
+comment6.params=payment
+comment6.target=void\ setPayment(Payment)
+numComments=7

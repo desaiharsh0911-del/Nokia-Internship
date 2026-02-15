@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Symbol
+comment0.text=\r\n\ Description\:\ This\ class\ represents\ a\ symbol\ in\ the\ slot\ machine.\ Each\ symbol\ \r\n\ has\ a\ emoji\ and\ a\ value\ that\ determines\ the\ payout\r\n\r\n\ Harsh\ Desai\r\n\ Dec.\ 4,\ 2025\r\n
+comment1.params=n\ v
+comment1.target=Symbol(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

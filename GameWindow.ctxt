@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameWindow
+comment1.params=blackName\ whiteName\ hh\ mm\ ss
+comment1.target=GameWindow(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=bn\ wn\ hh\ mm\ ss
+comment2.target=javax.swing.JPanel\ gameDataPanel(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=javax.swing.JPanel\ buttons()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=c
+comment8.target=void\ checkmateOccurred(int)
+numComments=9
